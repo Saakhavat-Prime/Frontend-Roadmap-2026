@@ -1,4 +1,4 @@
-# 🚀 Frontend Development Roadmap 2026
+# 🚀 Frontend Development Roadmap 2026 2026
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Frontend%20Roadmap%202026&fontSize=35&fontColor=ffffff)
 
